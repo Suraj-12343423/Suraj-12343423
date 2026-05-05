@@ -8,7 +8,7 @@ I enjoy building projects and continuously improving my problem-solving skills.
 
 🚀 Some of the projects I’ve worked on include:
 
-* Quiz Game
+* Quiz Game 
 * Pomodoro Timer
 * Typing Speed Tester
 * Snake Game
