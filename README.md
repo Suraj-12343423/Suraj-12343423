@@ -42,7 +42,7 @@ Git · GitHub · VS Code · Visual Studio
 
 ### 📌 Featured Projects
 
-- [Calculator](https://github.com/Suraj-12343423/Calculator1)
+- [Calculator](https://github.com/Suraj-12343423/Calculator-Assembly)
 - [Quiz Game](https://github.com/Suraj-12343423/Quiz-game)
 - [Tetris](https://github.com/Suraj-12343423/Tetris)
 - [Voting System](https://github.com/Suraj-12343423/Voting-System)
